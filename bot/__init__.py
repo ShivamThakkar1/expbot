@@ -1,1 +1,1 @@
-__author__ = "simonevizzuso.dev"
+__author__ = "mensarena"
