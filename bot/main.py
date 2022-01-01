@@ -130,7 +130,7 @@ def job_king(context: CallbackContext):
                                       ")\nAll of you, kneel before him and commit yourselves to be crowned tomorrow")
 
 
-updater = Updater(token='', use_context=True)
+updater = Updater(token='5052806486:AAHHPTFAHSOZ6hrCexLM8kCmSaSuZvU-2S8', use_context=True)
 
 
 def main():
